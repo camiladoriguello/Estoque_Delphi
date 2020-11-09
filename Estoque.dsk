@@ -1,0 +1,225 @@
+[Closed Files]
+File_0=SourceModule,'C:\Projetos\Projeto Estoque\U_DmBanco.pas',0,1,1,4,16,1,1
+File_1=SourceModule,'C:\Projetos\Project Estoque\Estoque.pas',0,1,1,1,22,1,0
+File_2=SourceModule,'C:\Projetos\Projetct Learn\U_Entrada.pas',0,1,1,28,23,1,0
+File_3=SourceModule,'C:\Projetos\Projetct Learn\U_Login.pas',0,1,1,36,32,1,1
+File_4=SourceModule,'C:\Projetos\Projetct Learn\U_MenuInicial.dfm',0,1,1,1,1,0,0
+File_5=SourceModule,'C:\Projetos\Projetct Learn\U_MenuInicial.pas',0,1,1,14,1,0,0
+File_6=SourceModule,'C:\Projetos\Project\Unit1.pas',0,1,67,56,78,1,0
+File_7=SourceModule,'C:\Projetos\Project\Unit5.pas',0,1,18,32,31,0,0
+File_8=SourceModule,'C:\Projetos\Project\Unit4.pas',0,1,1,65,25,0,0
+File_9=SourceModule,'C:\Projetos\Project\Unit3.pas',0,1,16,32,31,0,0
+
+[Modules]
+Module0=C:\Projetos\Projeto Estoque\U_DM.pas
+Module1=C:\Projetos\Projeto Estoque\U_Login.pas
+Module2=C:\Projetos\Projeto Estoque\U_Entrada.pas
+Module3=C:\Projetos\Projeto Estoque\Estoque.dpr
+Count=4
+EditWindowCount=1
+
+[C:\Projetos\Projeto Estoque\U_DM.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Projetos\Projeto Estoque\U_Login.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Projetos\Projeto Estoque\U_Entrada.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Projetos\Projeto Estoque\Estoque.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Program Files (x86)\Borland\Delphi7\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=4
+CurrentView=3
+View0=0
+View1=1
+View2=2
+View3=3
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=237
+Top=107
+Width=1135
+Height=635
+MaxLeft=-8
+MaxTop=107
+ClientWidth=1127
+ClientHeight=604
+LeftPanelSize=0
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=00000400010000000C000000436F64654578706C6F726572000000000000000000000000000000000001000000000000000000000000FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=85
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=000004000000000067040000000000000255000000000000000100000000000000000000000001000000008E0300000000000001000000008E030000000000000100000000670400000B0000004D65737361676556696577FFFFFFFF
+
+[View0]
+Module=C:\Projetos\Projeto Estoque\Estoque.dpr
+CursorX=1
+CursorY=8
+TopLine=1
+LeftCol=1
+
+[View1]
+Module=C:\Projetos\Projeto Estoque\U_Entrada.pas
+CursorX=11
+CursorY=1
+TopLine=22
+LeftCol=1
+
+[View2]
+Module=C:\Projetos\Projeto Estoque\U_Login.pas
+CursorX=11
+CursorY=42
+TopLine=27
+LeftCol=1
+
+[View3]
+Module=C:\Projetos\Projeto Estoque\U_DM.pas
+CursorX=114
+CursorY=9
+TopLine=1
+LeftCol=1
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=2
+Left=2
+Top=0
+Width=1364
+Height=123
+MaxLeft=-1
+MaxTop=-1
+MaxWidth=1374
+MaxHeight=115
+ClientWidth=1366
+ClientHeight=84
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=446
+Height=318
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=438
+ClientHeight=287
+TBDockHeight=318
+LRDockWidth=446
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=125
+Width=156
+Height=89
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=-2
+Top=106
+Width=247
+Height=636
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=239
+ClientHeight=605
+TBDockHeight=604
+LRDockWidth=247
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=Name
+ExpandedItems=
+HiddenCategories=
+
+[ObjectTree]
+Create=1
+Visible=0
+State=0
+Left=0
+Top=123
+Width=190
+Height=240
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=182
+ClientHeight=209
+TBDockHeight=240
+LRDockWidth=190
+Dockable=1
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=0
+Top=12
+Width=140
+Height=588
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=140
+ClientHeight=588
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=12
+Top=0
+Width=1115
+Height=85
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1115
+ClientHeight=85
+TBDockHeight=85
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+
